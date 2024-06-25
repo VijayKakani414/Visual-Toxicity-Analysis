@@ -3,6 +3,7 @@ This repo is created to host the code materials pertaining to Visual Toxicity An
 
 ## Overview
 
+![GA](https://github.com/VijayKakani414/Visual-Toxicity-Analysis/assets/25151205/dfef6fa6-055a-4521-a6c1-ac8158bb243d)
 
 
 This repository contains:
